@@ -1,0 +1,11 @@
+E:\Curses\C#\Other projects\TelephoneDiary\TelephoneDiary\bin\Debug\TelephoneDiary.exe.config
+E:\Curses\C#\Other projects\TelephoneDiary\TelephoneDiary\bin\Debug\TelephoneDiary.exe
+E:\Curses\C#\Other projects\TelephoneDiary\TelephoneDiary\bin\Debug\TelephoneDiary.pdb
+E:\Curses\C#\Other projects\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.csprojAssemblyReference.cache
+E:\Curses\C#\Other projects\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.Phone.resources
+E:\Curses\C#\Other projects\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.Properties.Resources.resources
+E:\Curses\C#\Other projects\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.csproj.GenerateResource.cache
+E:\Curses\C#\Other projects\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.csproj.CoreCompileInputs.cache
+E:\Curses\C#\Other projects\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.exe
+E:\Curses\C#\Other projects\TelephoneDiary\TelephoneDiary\obj\Debug\TelephoneDiary.pdb
+E:\Curses\C#\Other projects\TelephoneDiary\TelephoneDiary\bin\Debug\App.config

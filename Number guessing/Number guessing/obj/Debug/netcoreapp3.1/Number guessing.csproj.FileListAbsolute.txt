@@ -1,0 +1,13 @@
+E:\Curses\C#\Other projects\Number guessing\Number guessing\bin\Debug\netcoreapp3.1\Number guessing.exe
+E:\Curses\C#\Other projects\Number guessing\Number guessing\bin\Debug\netcoreapp3.1\Number guessing.deps.json
+E:\Curses\C#\Other projects\Number guessing\Number guessing\bin\Debug\netcoreapp3.1\Number guessing.runtimeconfig.json
+E:\Curses\C#\Other projects\Number guessing\Number guessing\bin\Debug\netcoreapp3.1\Number guessing.runtimeconfig.dev.json
+E:\Curses\C#\Other projects\Number guessing\Number guessing\bin\Debug\netcoreapp3.1\Number guessing.dll
+E:\Curses\C#\Other projects\Number guessing\Number guessing\bin\Debug\netcoreapp3.1\Number guessing.pdb
+E:\Curses\C#\Other projects\Number guessing\Number guessing\obj\Debug\netcoreapp3.1\Number guessing.csprojAssemblyReference.cache
+E:\Curses\C#\Other projects\Number guessing\Number guessing\obj\Debug\netcoreapp3.1\Number guessing.AssemblyInfoInputs.cache
+E:\Curses\C#\Other projects\Number guessing\Number guessing\obj\Debug\netcoreapp3.1\Number guessing.AssemblyInfo.cs
+E:\Curses\C#\Other projects\Number guessing\Number guessing\obj\Debug\netcoreapp3.1\Number guessing.csproj.CoreCompileInputs.cache
+E:\Curses\C#\Other projects\Number guessing\Number guessing\obj\Debug\netcoreapp3.1\Number guessing.dll
+E:\Curses\C#\Other projects\Number guessing\Number guessing\obj\Debug\netcoreapp3.1\Number guessing.pdb
+E:\Curses\C#\Other projects\Number guessing\Number guessing\obj\Debug\netcoreapp3.1\Number guessing.genruntimeconfig.cache

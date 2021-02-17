@@ -1,0 +1,10 @@
+E:\Curses\C#\Other projects\Note app\Note app\bin\Debug\Note app.exe.config
+E:\Curses\C#\Other projects\Note app\Note app\bin\Debug\Note app.exe
+E:\Curses\C#\Other projects\Note app\Note app\bin\Debug\Note app.pdb
+E:\Curses\C#\Other projects\Note app\Note app\obj\Debug\Note app.csprojAssemblyReference.cache
+E:\Curses\C#\Other projects\Note app\Note app\obj\Debug\Note_app.Form1.resources
+E:\Curses\C#\Other projects\Note app\Note app\obj\Debug\Note_app.Properties.Resources.resources
+E:\Curses\C#\Other projects\Note app\Note app\obj\Debug\Note app.csproj.GenerateResource.cache
+E:\Curses\C#\Other projects\Note app\Note app\obj\Debug\Note app.csproj.CoreCompileInputs.cache
+E:\Curses\C#\Other projects\Note app\Note app\obj\Debug\Note app.exe
+E:\Curses\C#\Other projects\Note app\Note app\obj\Debug\Note app.pdb
