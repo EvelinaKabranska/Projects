@@ -1,0 +1,15 @@
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe.config
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\bin\Debug\MusicPlayerApp.pdb
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\bin\Debug\Interop.WMPLib.dll
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csprojAssemblyReference.cache
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\obj\Debug\Interop.WMPLib.dll
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\obj\Debug\AxInterop.WMPLib.dll
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.ResolveComReference.cache
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.MusicPlayerApp.resources
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.Properties.Resources.resources
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.GenerateResource.cache
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.CoreCompileInputs.cache
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.exe
+E:\Curses\C#\Other projects\MusicPlayerApp\MusicPlayerApp\obj\Debug\MusicPlayerApp.pdb
