@@ -1,0 +1,10 @@
+E:\Curses\C#\Other projects\Drawing app\Drawing app\bin\Debug\Drawing app.exe.config
+E:\Curses\C#\Other projects\Drawing app\Drawing app\bin\Debug\Drawing app.exe
+E:\Curses\C#\Other projects\Drawing app\Drawing app\bin\Debug\Drawing app.pdb
+E:\Curses\C#\Other projects\Drawing app\Drawing app\obj\Debug\Drawing app.csprojAssemblyReference.cache
+E:\Curses\C#\Other projects\Drawing app\Drawing app\obj\Debug\Drawing_app.Form1.resources
+E:\Curses\C#\Other projects\Drawing app\Drawing app\obj\Debug\Drawing_app.Properties.Resources.resources
+E:\Curses\C#\Other projects\Drawing app\Drawing app\obj\Debug\Drawing app.csproj.GenerateResource.cache
+E:\Curses\C#\Other projects\Drawing app\Drawing app\obj\Debug\Drawing app.csproj.CoreCompileInputs.cache
+E:\Curses\C#\Other projects\Drawing app\Drawing app\obj\Debug\Drawing app.exe
+E:\Curses\C#\Other projects\Drawing app\Drawing app\obj\Debug\Drawing app.pdb
