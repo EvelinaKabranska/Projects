@@ -1,0 +1,10 @@
+E:\Curses\C#\Other projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe.config
+E:\Curses\C#\Other projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.exe
+E:\Curses\C#\Other projects\DigitalClock\DigitalClock\bin\Debug\DigitalClock.pdb
+E:\Curses\C#\Other projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csprojAssemblyReference.cache
+E:\Curses\C#\Other projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+E:\Curses\C#\Other projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+E:\Curses\C#\Other projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+E:\Curses\C#\Other projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+E:\Curses\C#\Other projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.exe
+E:\Curses\C#\Other projects\DigitalClock\DigitalClock\obj\Debug\DigitalClock.pdb
